@@ -73,6 +73,7 @@
     "react-router-dom": "^6.0.0-beta.0",
     "react-scripts": "^3.4.1",
     "uuid": "^8.3.0",
+    "yarn": "^1.22.10",
     "yup": "^0.29.3"
   },
   "devDependencies": {
@@ -95,6 +96,7 @@
     "eslint-plugin-react-hooks": "^2.5.1",
     "flow-bin": "^0.134.0",
     "prettier": "^1.19.1",
-    "react-is": "^16.13.1"
+    "react-is": "^16.13.1",
+    "storybook-addon-material-ui": "^0.9.0-alpha.21"
   }
 }
